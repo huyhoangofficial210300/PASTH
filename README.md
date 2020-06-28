@@ -28,7 +28,7 @@ Thông tin về vị trí của trẻ sẽ được hiển thị trên bản đ�
 Với vai trò là một đồng hồ cho trẻ em, chúng tôi cố gắng giảm trọng lượng nhẹ nhất có thể, chỉ với 60gr, giờ đây trẻ không còn đau tay, nhức mỏi.
 
 ## Tích hợp SIM - Phát âm thanh báo động !
-Không những kiểm soát dành cho phụ huynh,mà giờ đây trẻ em cũng có thể chủ động nghe, gọi, liên lạc lại cho ba mẹ của mình !
+Không những kiểm soát dành cho phụ huynh, mà giờ đây trẻ em cũng có thể chủ động nghe, gọi, liên lạc lại cho ba mẹ của mình !
 
 Khi gặp nguy hiểm trẻ có thể **nhấn nút báo động** cho phụ huynh.
 
