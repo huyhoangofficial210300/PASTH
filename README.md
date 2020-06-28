@@ -64,6 +64,9 @@ Khi gặp nguy hiểm trẻ có thể **nhấn nút báo động** cho phụ huy
  _Ngô Quốc An - 18520428_
 
 
-### LIÊN HỆ VỚI CHÚNG TÔI
+### LIÊN HỆ VỚI CHÚNG TÔI.
+Hotline: +(84)969210300
+
+Phản ánh chất lượng: 18520773@ms.uit.edu.vn
 
 
