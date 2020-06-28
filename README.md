@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+## CHÀO MỪNG ĐẾN VỚI PASTH
 
-You can use the [editor on GitHub](https://github.com/huyhoangofficial210300/PASTH/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Overview: PASTH là một công ty nghiên cứu và phát triển về lĩnh vực công nghệ cao với trang thiết bị điện tử.
 
 ### Markdown
 
