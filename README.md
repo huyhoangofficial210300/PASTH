@@ -9,7 +9,7 @@ Là một trong những sản phẩm được chúng tôi nghiên cứu tỉ m�
 ![104483627_268765827771120_4411941508820243873_n](https://user-images.githubusercontent.com/67546866/85950069-a8fa0280-b984-11ea-84b3-492fbae72cd5.png)
 
 
-```markdown
+## Thực trạng
 Syntax highlighted code block
 
 # Header 1
@@ -22,17 +22,27 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
 
-[Link](url) and ![Image](src)
-```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
 
-### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/huyhoangofficial210300/PASTH/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+### ĐỘI NGŨ PHÁT TRIỂN
 
-### Support or Contact
+ **_Trần Văn Truyền - 19522448_**    
+ 
+ **_Nguyễn Duy Phúc - 19522038_**
 
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+ **_Huỳnh Minh Tuấn - 19521073_**
+
+ **_Bùi Huy Hoàng - 18520773_**
+
+ **_Sơn Ngọc Minh - 19521853_**
+
+ **_Ngô Quốc An - 18520428_**
+
+
+
+
+### LIÊN HỆ VỚI CHÚNG TÔI
+
+
