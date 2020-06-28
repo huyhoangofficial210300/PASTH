@@ -35,11 +35,11 @@ Khi gặp nguy hiểm trẻ có thể **nhấn nút báo động** cho phụ huy
 ## Chống nước tiêu chuẩn IP68
 ![dong-ho-dinh-vi-tre-em-bbk02-7](https://user-images.githubusercontent.com/67546866/85951132-5a039b80-b98b-11ea-8db6-77ac974591c7.jpg)
 
-Thời gian bảo hành 1 năm
-Màu sắc đa dạng
 
+## Màu sắc đa dạng
+![unnamed](https://user-images.githubusercontent.com/67546866/85951365-f11d2300-b98c-11ea-8da5-f6928b4603ad.jpg)
 
-## Giờ đây App đã xuất hiện trên cả 2 nền tảng Android và IOS !
+## App đã xuất hiện trên cả 2 nền tảng Android và IOS !
 ![0_ttMyFl0yQy9vgf7_](https://user-images.githubusercontent.com/67546866/85951285-689e8280-b98c-11ea-9764-2020f5007679.png)
 
 
