@@ -38,13 +38,14 @@ Khi gặp nguy hiểm trẻ có thể **nhấn nút báo động** cho phụ huy
 Thời gian bảo hành 1 năm
 Màu sắc đa dạng
 
-Khả năng chống nước
-App chạy trên cả hai nền tảng Android và IOS
+
+## Giờ đây App đã xuất hiện trên cả 2 nền tảng Android và IOS !
+![0_ttMyFl0yQy9vgf7_](https://user-images.githubusercontent.com/67546866/85951285-689e8280-b98c-11ea-9764-2020f5007679.png)
 
 
-Phụ huynh cài đặt thông qua app trên điện thoại
-Thông tin về vị trí của trẻ sẽ được hiển thị trên bản đồ
-Phụ huynh có thể nhấn nút báo động trên app để dễ dàng tìm trẻ
+
+
+
 
 
 
