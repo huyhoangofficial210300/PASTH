@@ -9,38 +9,58 @@ Là một trong những sản phẩm được chúng tôi nghiên cứu tỉ m�
 ![104483627_268765827771120_4411941508820243873_n](https://user-images.githubusercontent.com/67546866/85950069-a8fa0280-b984-11ea-84b3-492fbae72cd5.png)
 
 
-## Thực trạng
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
 
 
+
+## Đã có chúng tôi thay bạn quan sát trẻ nhỏ !
+
+Thông tin về vị trí của trẻ sẽ được hiển thị trên bản đồ.
+
+Phụ huynh có thể **nhấn nút báo động** trên app để dễ dàng tìm trẻ.
+
+## Không còn sợ trẻ lạc !
+
+Phụ huynh cài đặt thông qua app trên điện thoại
+
+Thông tin về vị trí của trẻ sẽ được hiển thị trên bản đồ
+
+## Trọng lượng siêu nhẹ !
+Với vai trò là một đồng hồ cho trẻ em,chúng tôi cố gắng giảm trọng lượng nhẹ nhất có thể, chỉ với 60gr, giờ đây trẻ không còn đau tay,nhức mỏi.
+
+## Tích hợp SIM - Phát âm thanh báo động !
+Không những kiểm soát dành cho phụ huynh,mà giờ đây trẻ em cũng có thể chủ động nghe, gọi, liên lạc lại cho ba mẹ của mình !
+
+Khi gặp nguy hiểm trẻ có thể **nhấn nút báo động** cho phụ huynh.
+
+## Chống nước tiêu chuẩn IP68
+![dong-ho-dinh-vi-tre-em-bbk02-7](https://user-images.githubusercontent.com/67546866/85951132-5a039b80-b98b-11ea-8db6-77ac974591c7.jpg)
+
+Thời gian bảo hành 1 năm
+Màu sắc đa dạng
+
+Khả năng chống nước
+App chạy trên cả hai nền tảng Android và IOS
+
+
+Phụ huynh cài đặt thông qua app trên điện thoại
+Thông tin về vị trí của trẻ sẽ được hiển thị trên bản đồ
+Phụ huynh có thể nhấn nút báo động trên app để dễ dàng tìm trẻ
 
 
 
 ### ĐỘI NGŨ PHÁT TRIỂN
 
- **_Trần Văn Truyền - 19522448_**    
+ _Trần Văn Truyền - 19522448_  
  
- **_Nguyễn Duy Phúc - 19522038_**
+ _Nguyễn Duy Phúc - 19522038_
 
- **_Huỳnh Minh Tuấn - 19521073_**
+ _Huỳnh Minh Tuấn - 19521073_
 
- **_Bùi Huy Hoàng - 18520773_**
+ _Bùi Huy Hoàng - 18520773_
 
- **_Sơn Ngọc Minh - 19521853_**
+ _Sơn Ngọc Minh - 19521853_
 
- **_Ngô Quốc An - 18520428_**
-
-
+ _Ngô Quốc An - 18520428_
 
 
 ### LIÊN HỆ VỚI CHÚNG TÔI
