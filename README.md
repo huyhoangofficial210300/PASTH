@@ -2,7 +2,7 @@
 
 PASTH là một công ty nghiên cứu và phát triển về lĩnh vực công nghệ cao với trang thiết bị điện tử đa dụng.
 
-### Vòng tay GPS cho trẻ em - Định vị,kiểm soát con cái của bạn.
+### Vòng tay GPS cho trẻ em - Định vị, kiểm soát con cái của bạn.
 
 Là một trong những sản phẩm được chúng tôi nghiên cứu tỉ mỉ, được sinh ra với vai trò to lớn,giúp các bậc cha mẹ, phụ huynh kiểm soát tốt hơn với con cái của mình.
 
