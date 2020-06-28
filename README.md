@@ -2,9 +2,9 @@
 
 PASTH là một công ty nghiên cứu và phát triển về lĩnh vực công nghệ cao với trang thiết bị điện tử đa dụng.
 
-### Vòng tay trẻ em
+### Vòng tay GPS cho trẻ em - Định vị,kiểm soát con cái của bạn.
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Là một trong những sản phẩm được chúng tôi nghiên cứu tỉ mỉ,được sinh ra với vai trò to lớn,giúp các bậc cha mẹ,phụ huynh kiểm soát tốt hơn với con cái của mình.
 
 ```markdown
 Syntax highlighted code block
