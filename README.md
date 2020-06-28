@@ -1,8 +1,8 @@
 ## CHÀO MỪNG ĐẾN VỚI PASTH
 
-Overview: PASTH là một công ty nghiên cứu và phát triển về lĩnh vực công nghệ cao với trang thiết bị điện tử.
+PASTH là một công ty nghiên cứu và phát triển về lĩnh vực công nghệ cao với trang thiết bị điện tử đa dụng.
 
-### Markdown
+### Vòng tay trẻ em
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
